@@ -1,4 +1,4 @@
-package org.riceconcepts.activity;
+package org.ripeconcepts.activity;
 
 public class Solution {
 
